@@ -1,0 +1,19 @@
+# Models
+*.pt
+*.pth
+*.onnx
+*.h5
+*.weights
+
+# Dataset
+Vietnam-Traffic-Sign-1/
+
+# Training outputs
+runs/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
